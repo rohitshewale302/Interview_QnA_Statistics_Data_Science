@@ -311,7 +311,7 @@ ___
 <table>
 <tr>
 <td>
-     <img src="https://drive.google.com/file/d/1yyzDAU0XhlwXqR5Op3a5njtppnDHcbMP/view?usp=sharing">
+     <img src=https://drive.google.com/file/d/1yyzDAU0XhlwXqR5Op3a5njtppnDHcbMP/view?usp=sharing>
      
      rohitshewale302@gmail.com
 
