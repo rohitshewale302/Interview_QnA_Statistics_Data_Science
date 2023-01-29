@@ -311,7 +311,7 @@ ___
 <table>
 <tr>
 <td>
-     <img src="https://github.com/rohitshewale302" width="180"/>
+     <img src="https://github.com/rohitshewale302">
      
      rohitshewale302@gmail.com
 
